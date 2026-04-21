@@ -3894,10 +3894,10 @@ Source: &lt;a href="http://www.ti.com/lit/gpn/drv2605"&gt; Datasheet &lt;/a&gt;<
 <part name="J2" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.JpBW2JuCSi6ZplHQ7-eTBQ" deviceset="TC2030-IDC_TC2030-IDC" device="" value="TC2030-IDC"/>
 <part name="ANT1" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.JpBW2JuCSi6ZplHQ7-eTBQ" deviceset="2450AT18B100E_2450AT18B100E" device="" value="2450AT18B100E"/>
 <part name="FRAME1" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.JpBW2JuCSi6ZplHQ7-eTBQ" deviceset="FRAMES_A3L-LOC" device=""/>
-<part name="C39" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.JpBW2JuCSi6ZplHQ7-eTBQ" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="10uF"/>
-<part name="C24" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.JpBW2JuCSi6ZplHQ7-eTBQ" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="10uF"/>
-<part name="C25" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.JpBW2JuCSi6ZplHQ7-eTBQ" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="22uF"/>
-<part name="C33" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.JpBW2JuCSi6ZplHQ7-eTBQ" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="22uF"/>
+<part name="C39" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.JpBW2JuCSi6ZplHQ7-eTBQ" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0402_L" value="10uF"/>
+<part name="C24" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.JpBW2JuCSi6ZplHQ7-eTBQ" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0402_L" value="10uF"/>
+<part name="C25" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.JpBW2JuCSi6ZplHQ7-eTBQ" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0402_L" value="22uF"/>
+<part name="C33" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.JpBW2JuCSi6ZplHQ7-eTBQ" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0402_L" value="22uF"/>
 <part name="C12" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.JpBW2JuCSi6ZplHQ7-eTBQ" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="100nF"/>
 <part name="L7" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.JpBW2JuCSi6ZplHQ7-eTBQ" deviceset="MLP2016SR47MT0S1_FTC252012SR47MBCA" device="" value="FTC252012SR47MBCA"/>
 <part name="R9" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.JpBW2JuCSi6ZplHQ7-eTBQ" deviceset="CPF0201D7K68C1_CPF0201D7K68C1" device="" value="10K"/>
@@ -3971,13 +3971,13 @@ Source: &lt;a href="http://www.ti.com/lit/gpn/drv2605"&gt; Datasheet &lt;/a&gt;<
 <part name="SUPPLY31" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.JpBW2JuCSi6ZplHQ7-eTBQ" deviceset="TUTORIAL---FUSION-360_GND-BAR" device="" value="GND"/>
 <part name="SUPPLY32" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.JpBW2JuCSi6ZplHQ7-eTBQ" deviceset="TUTORIAL---FUSION-360_GND-BAR" device="" value="GND"/>
 <part name="SUPPLY33" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.JpBW2JuCSi6ZplHQ7-eTBQ" deviceset="TUTORIAL---FUSION-360_GND-BAR" device="" value="GND"/>
-<part name="D4" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.JpBW2JuCSi6ZplHQ7-eTBQ" deviceset="ESP32_C6_LIBRARY_5_MBR0530" device="" value=""/>
-<part name="D2" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.JpBW2JuCSi6ZplHQ7-eTBQ" deviceset="ESP32_C6_LIBRARY_5_MBR0530" device="" value=""/>
-<part name="D5" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.JpBW2JuCSi6ZplHQ7-eTBQ" deviceset="ESP32_C6_LIBRARY_5_MBR0530" device="" value=""/>
+<part name="D4" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.JpBW2JuCSi6ZplHQ7-eTBQ" deviceset="ESP32_C6_LIBRARY_5_MBR0530" device="" value="MBR0530"/>
+<part name="D2" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.JpBW2JuCSi6ZplHQ7-eTBQ" deviceset="ESP32_C6_LIBRARY_5_MBR0530" device="" value="MBR0530"/>
+<part name="D5" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.JpBW2JuCSi6ZplHQ7-eTBQ" deviceset="ESP32_C6_LIBRARY_5_MBR0530" device="" value="MBR0530"/>
 <part name="C2-EP-DR" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.JpBW2JuCSi6ZplHQ7-eTBQ" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="4.7uF/25V"/>
 <part name="SUPPLY34" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.JpBW2JuCSi6ZplHQ7-eTBQ" deviceset="TUTORIAL---FUSION-360_GND-BAR" device="" value="GND"/>
 <part name="L5" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.JpBW2JuCSi6ZplHQ7-eTBQ" deviceset="ESP32_C6_LIBRARY_2_744043680" device="IND_4828-WE-TPC_WRE"/>
-<part name="C1-EP-DR" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.JpBW2JuCSi6ZplHQ7-eTBQ" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="10uF"/>
+<part name="C1-EP-DR" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.JpBW2JuCSi6ZplHQ7-eTBQ" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0402_L" value="10uF"/>
 <part name="SUPPLY35" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.JpBW2JuCSi6ZplHQ7-eTBQ" deviceset="TUTORIAL---FUSION-360_GND-BAR" device="" value="GND"/>
 <part name="R2_EP_DR" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.JpBW2JuCSi6ZplHQ7-eTBQ" deviceset="CPF0201D7K68C1_CPF0201D7K68C1" device="" value="10K"/>
 <part name="SUPPLY36" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.JpBW2JuCSi6ZplHQ7-eTBQ" deviceset="TUTORIAL---FUSION-360_GND-BAR" device="" value="GND"/>
@@ -4669,6 +4669,7 @@ Source: &lt;a href="http://www.ti.com/lit/gpn/drv2605"&gt; Datasheet &lt;/a&gt;<
 <label x="27.94" y="147.32" size="1.016" layer="95" rot="R180" xref="yes"/>
 <pinref part="C24" gate="C$1" pin="2"/>
 <pinref part="C23" gate="G$1" pin="2"/>
+<junction x="40.64" y="147.32"/>
 </segment>
 <segment>
 <pinref part="TP_VREG" gate="G$1" pin="TP"/>
@@ -4723,12 +4724,6 @@ Source: &lt;a href="http://www.ti.com/lit/gpn/drv2605"&gt; Datasheet &lt;/a&gt;<
 <wire x1="78.74" y1="167.64" x2="81.28" y2="167.64" width="0.1524" layer="91"/>
 <label x="81.28" y="167.64" size="1.016" layer="95" xref="yes"/>
 <pinref part="L7" gate="G$1" pin="2"/>
-</segment>
-</net>
-<net name="N$5" class="0">
-<segment>
-<wire x1="88.9" y1="129.54" x2="88.9" y2="132.08" width="0.1524" layer="91"/>
-<pinref part="C33" gate="C$1" pin="1"/>
 </segment>
 </net>
 <net name="LX1" class="0">
@@ -5182,6 +5177,10 @@ Source: &lt;a href="http://www.ti.com/lit/gpn/drv2605"&gt; Datasheet &lt;/a&gt;<
 </net>
 <net name="DEC4_6" class="0">
 <segment>
+<pinref part="C10" gate="C$1" pin="1"/>
+<wire x1="297.18" y1="172.72" x2="297.18" y2="175.26" width="0.1524" layer="91"/>
+<label x="299.72" y="175.26" size="1.016" layer="95"/>
+<wire x1="297.18" y1="175.26" x2="304.8" y2="175.26" width="0.1524" layer="91"/>
 <pinref part="L3" gate="L$1" pin="2"/>
 <wire x1="213.36" y1="208.28" x2="213.36" y2="210.82" width="0.1524" layer="91"/>
 <wire x1="213.36" y1="210.82" x2="220.98" y2="210.82" width="0.1524" layer="91"/>
@@ -5196,18 +5195,14 @@ Source: &lt;a href="http://www.ti.com/lit/gpn/drv2605"&gt; Datasheet &lt;/a&gt;<
 <wire x1="238.76" y1="208.28" x2="238.76" y2="210.82" width="0.1524" layer="91"/>
 <pinref part="U1" gate="G$1" pin="DEC6@E24"/>
 <wire x1="276.86" y1="147.32" x2="304.8" y2="147.32" width="0.1524" layer="91"/>
-<wire x1="304.8" y1="147.32" x2="304.8" y2="210.82" width="0.1524" layer="91"/>
+<wire x1="304.8" y1="147.32" x2="304.8" y2="175.26" width="0.1524" layer="91"/>
 <junction x="220.98" y="210.82"/>
 <junction x="228.6" y="210.82"/>
 <junction x="238.76" y="210.82"/>
 <label x="287.02" y="147.32" size="1.016" layer="95" rot="R180"/>
 <label x="220.98" y="210.82" size="1.016" layer="95"/>
-</segment>
-<segment>
-<pinref part="C10" gate="C$1" pin="1"/>
-<wire x1="297.18" y1="172.72" x2="297.18" y2="175.26" width="0.1524" layer="91"/>
-<wire x1="297.18" y1="175.26" x2="304.8" y2="175.26" width="0.1524" layer="91"/>
-<label x="299.72" y="175.26" size="1.016" layer="95"/>
+<wire x1="304.8" y1="175.26" x2="304.8" y2="210.82" width="0.1524" layer="91"/>
+<junction x="304.8" y="175.26"/>
 </segment>
 </net>
 <net name="N$9" class="0">
@@ -5382,9 +5377,13 @@ Source: &lt;a href="http://www.ti.com/lit/gpn/drv2605"&gt; Datasheet &lt;/a&gt;<
 <pinref part="IC9" gate="G$1" pin="VOUT_2"/>
 <wire x1="78.74" y1="132.08" x2="78.74" y2="129.54" width="0.1524" layer="91"/>
 <junction x="78.74" y="132.08"/>
-<wire x1="78.74" y1="132.08" x2="91.44" y2="132.08" width="0.1524" layer="91"/>
 <label x="91.44" y="132.08" size="1.016" layer="95" xref="yes"/>
 <pinref part="C25" gate="C$1" pin="1"/>
+<wire x1="78.74" y1="132.08" x2="88.9" y2="132.08" width="0.1524" layer="91"/>
+<pinref part="C33" gate="C$1" pin="1"/>
+<wire x1="88.9" y1="129.54" x2="88.9" y2="132.08" width="0.1524" layer="91"/>
+<wire x1="88.9" y1="132.08" x2="91.44" y2="132.08" width="0.1524" layer="91"/>
+<junction x="88.9" y="132.08"/>
 </segment>
 <segment>
 <pinref part="R17" gate="G$1" pin="1"/>
@@ -5435,6 +5434,7 @@ Source: &lt;a href="http://www.ti.com/lit/gpn/drv2605"&gt; Datasheet &lt;/a&gt;<
 <wire x1="187.96" y1="193.04" x2="187.96" y2="190.5" width="0.1524" layer="91"/>
 <pinref part="C14" gate="C$1" pin="1"/>
 <label x="187.96" y="198.12" size="1.016" layer="95" rot="R90" xref="yes"/>
+<junction x="187.96" y="193.04"/>
 </segment>
 <segment>
 <wire x1="177.8" y1="116.84" x2="177.8" y2="111.76" width="0.1524" layer="91"/>
@@ -5495,16 +5495,16 @@ Driver</text>
 </plain>
 <instances>
 <instance part="D4" gate="G$1" x="73.66" y="223.52" smashed="yes" rot="R180">
-<attribute name="NAME" x="69.85" y="228.6" size="1.778" layer="95" rot="R180" align="center-left"/>
-<attribute name="VALUE" x="62.23" y="220.98" size="1.778" layer="96" rot="R180" align="center-left"/>
+<attribute name="NAME" x="72.39" y="220.98" size="1.778" layer="95" rot="R180" align="center-left"/>
+<attribute name="VALUE" x="69.85" y="228.6" size="1.778" layer="96" rot="R180" align="center-left"/>
 </instance>
 <instance part="D2" gate="G$1" x="58.42" y="215.9" smashed="yes">
 <attribute name="NAME" x="59.69" y="218.44" size="1.778" layer="95" align="center-left"/>
-<attribute name="VALUE" x="69.85" y="218.44" size="1.778" layer="96" align="center-left"/>
+<attribute name="VALUE" x="69.85" y="213.36" size="1.778" layer="96" align="center-left"/>
 </instance>
 <instance part="D5" gate="G$1" x="73.66" y="203.2" smashed="yes" rot="R180">
-<attribute name="NAME" x="69.85" y="198.12" size="1.778" layer="95" rot="R180" align="center-left"/>
-<attribute name="VALUE" x="62.23" y="200.66" size="1.778" layer="96" rot="R180" align="center-left"/>
+<attribute name="NAME" x="72.39" y="200.66" size="1.778" layer="95" rot="R180" align="center-left"/>
+<attribute name="VALUE" x="64.77" y="198.12" size="1.778" layer="96" rot="R180" align="center-left"/>
 </instance>
 <instance part="C2-EP-DR" gate="C$1" x="55.88" y="210.82" smashed="yes">
 <attribute name="NAME" x="57.404" y="211.201" size="1.778" layer="95"/>
@@ -5576,35 +5576,35 @@ Driver</text>
 </instance>
 <instance part="EPD_C7" gate="C$1" x="76.2" y="68.58" smashed="yes" rot="R90">
 <attribute name="NAME" x="75.819" y="70.104" size="1.778" layer="95" rot="R90"/>
-<attribute name="VALUE" x="80.899" y="70.104" size="1.778" layer="96" rot="R90"/>
+<attribute name="VALUE" x="80.899" y="62.484" size="1.778" layer="96" rot="R90"/>
 </instance>
 <instance part="EPD_C9" gate="C$1" x="68.58" y="63.5" smashed="yes" rot="R90">
-<attribute name="NAME" x="68.199" y="65.024" size="1.778" layer="95" rot="R90"/>
-<attribute name="VALUE" x="73.279" y="65.024" size="1.778" layer="96" rot="R90"/>
+<attribute name="NAME" x="65.659" y="65.024" size="1.778" layer="95" rot="R90"/>
+<attribute name="VALUE" x="68.199" y="67.564" size="1.778" layer="96" rot="R90"/>
 </instance>
 <instance part="EPD_C12" gate="C$1" x="66.04" y="55.88" smashed="yes" rot="R90">
-<attribute name="NAME" x="65.659" y="57.404" size="1.778" layer="95" rot="R90"/>
-<attribute name="VALUE" x="70.739" y="57.404" size="1.778" layer="96" rot="R90"/>
+<attribute name="NAME" x="65.659" y="49.784" size="1.778" layer="95" rot="R90"/>
+<attribute name="VALUE" x="70.739" y="49.784" size="1.778" layer="96" rot="R90"/>
 </instance>
 <instance part="EPD_C8" gate="C$1" x="50.8" y="66.04" smashed="yes" rot="R90">
-<attribute name="NAME" x="50.419" y="67.564" size="1.778" layer="95" rot="R90"/>
-<attribute name="VALUE" x="55.499" y="67.564" size="1.778" layer="96" rot="R90"/>
+<attribute name="NAME" x="50.419" y="65.024" size="1.778" layer="95" rot="R90"/>
+<attribute name="VALUE" x="55.499" y="65.024" size="1.778" layer="96" rot="R90"/>
 </instance>
 <instance part="EPD_C11" gate="C$1" x="50.8" y="58.42" smashed="yes" rot="R90">
-<attribute name="NAME" x="50.419" y="59.944" size="1.778" layer="95" rot="R90"/>
-<attribute name="VALUE" x="55.499" y="59.944" size="1.778" layer="96" rot="R90"/>
+<attribute name="NAME" x="50.419" y="52.324" size="1.778" layer="95" rot="R90"/>
+<attribute name="VALUE" x="55.499" y="52.324" size="1.778" layer="96" rot="R90"/>
 </instance>
 <instance part="EPD_C5" gate="C$1" x="48.26" y="78.74" smashed="yes" rot="R90">
-<attribute name="NAME" x="47.879" y="80.264" size="1.778" layer="95" rot="R90"/>
-<attribute name="VALUE" x="52.959" y="80.264" size="1.778" layer="96" rot="R90"/>
+<attribute name="NAME" x="45.339" y="77.724" size="1.778" layer="95" rot="R90"/>
+<attribute name="VALUE" x="52.959" y="77.724" size="1.778" layer="96" rot="R90"/>
 </instance>
 <instance part="EPD_C6" gate="C$1" x="33.02" y="71.12" smashed="yes" rot="R90">
-<attribute name="NAME" x="32.639" y="72.644" size="1.778" layer="95" rot="R90"/>
-<attribute name="VALUE" x="37.719" y="72.644" size="1.778" layer="96" rot="R90"/>
+<attribute name="NAME" x="32.639" y="70.104" size="1.778" layer="95" rot="R90"/>
+<attribute name="VALUE" x="37.719" y="70.104" size="1.778" layer="96" rot="R90"/>
 </instance>
 <instance part="EPD_C10" gate="C$1" x="33.02" y="60.96" smashed="yes" rot="R90">
-<attribute name="NAME" x="32.639" y="62.484" size="1.778" layer="95" rot="R90"/>
-<attribute name="VALUE" x="37.719" y="62.484" size="1.778" layer="96" rot="R90"/>
+<attribute name="NAME" x="32.639" y="54.864" size="1.778" layer="95" rot="R90"/>
+<attribute name="VALUE" x="37.719" y="57.404" size="1.778" layer="96" rot="R90"/>
 </instance>
 <instance part="SUPPLY41" gate="G$1" x="17.78" y="48.26" smashed="yes">
 <attribute name="VALUE" x="17.78" y="45.72" size="1.778" layer="96" align="bottom-center"/>
